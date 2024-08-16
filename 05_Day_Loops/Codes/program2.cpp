@@ -1,6 +1,8 @@
+/*
+       Input: 10
+       Output :print number from 10 to 1;
 
-// print number from 10 to 1;
-//
+*/
 #include<iostream>
 
 using namespace std;
