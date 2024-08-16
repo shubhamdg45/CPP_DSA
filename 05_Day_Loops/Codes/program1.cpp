@@ -1,6 +1,9 @@
 
-//print all alphabet
-//
+
+/*   ** print all alphabet **
+    Output:
+     A to Z;
+*/
 
 #include <iostream>
 using namespace std;
