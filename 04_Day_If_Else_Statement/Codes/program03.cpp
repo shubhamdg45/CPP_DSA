@@ -1,6 +1,8 @@
-// print week days
-// if you press one then print monday
-//
+/*print week days
+  if you press one then print monday
+
+*/
+
 #include<iostream>
 using namespace std;
 
