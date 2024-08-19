@@ -1,7 +1,8 @@
 
-// sum of square of n natural number
-//
-//
+/*   ** sum of square of n natural number**
+	input:5
+	output:55
+*/
 
 
 #include<iostream>
