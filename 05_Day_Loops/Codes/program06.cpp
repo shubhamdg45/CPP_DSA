@@ -1,6 +1,10 @@
 
-//calculate sum of n natural number
-//
+/*  **calculate sum of n natural number**
+
+ input : 5
+ Output: 15
+
+*/
 #include<iostream>
 
 using namespace std;
