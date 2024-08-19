@@ -1,5 +1,7 @@
-// calculate power
-//
+/*  **calculate power**
+   input :10,pow=2
+   Output: 100
+*/
 #include<iostream>
 
 using namespace std;
