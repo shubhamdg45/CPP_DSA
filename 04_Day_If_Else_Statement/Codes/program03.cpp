@@ -1,4 +1,4 @@
-/*print week days
+/* print week days
   if you press one then print monday
 
 */
