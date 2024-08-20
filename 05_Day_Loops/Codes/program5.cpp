@@ -1,5 +1,8 @@
-// calculate power
-//
+/*   **calculate power**
+
+	
+
+*/
 #include<iostream>
 
 using namespace std;
