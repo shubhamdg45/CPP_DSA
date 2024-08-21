@@ -1,5 +1,7 @@
 /*print week days
   if you press one then print monday
+  input : 2
+  output Tuesday
 
 */
 
